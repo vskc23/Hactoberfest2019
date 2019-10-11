@@ -62,3 +62,8 @@ Hacktoberfest Classroom Project 2019
 > Hi, how do you do? Where did you come from, where did you go? Where did you come from, Cotton-Eye Joe?
 ---
 
+### Krish
+[vskc23](https://github.com/vskc23)
+> “Walking on water and developing software from a specification are easy if both are frozen.”
+---
+
